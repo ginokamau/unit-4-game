@@ -1,0 +1,31 @@
+header{
+    border: 1px solid green;
+    text-align: center;
+    margin: 0 200px 0 200px;
+    background: green;
+
+}
+.instructions{
+    background-color: #cccccc;
+    margin: 0 200px 0 200px;
+    text-align: left;
+    position: relative;
+    color: blue;
+
+}
+
+.crystals{
+    display: flex;
+    margin: 0 200px 0 200px;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.crystal{
+    /* border: 1px solid green; */
+    height: 150px;
+    width: 150px;
+    
+}
+
